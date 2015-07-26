@@ -1,0 +1,6 @@
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\Demo2\bin\Debug\Demo2.exe.config
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\Demo2\bin\Debug\Demo2.exe
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\Demo2\bin\Debug\Demo2.pdb
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\Demo2\obj\Debug\Demo2.csprojResolveAssemblyReference.cache
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\Demo2\obj\Debug\Demo2.exe
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\Demo2\obj\Debug\Demo2.pdb

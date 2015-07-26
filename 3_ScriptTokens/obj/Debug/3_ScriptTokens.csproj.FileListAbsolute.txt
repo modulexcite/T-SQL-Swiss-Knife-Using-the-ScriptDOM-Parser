@@ -1,0 +1,6 @@
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\3_ScriptTokens\bin\Debug\Demo3.exe.config
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\3_ScriptTokens\obj\Debug\Demo3.exe
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\3_ScriptTokens\obj\Debug\Demo3.pdb
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\3_ScriptTokens\bin\Debug\Demo3.exe
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\3_ScriptTokens\bin\Debug\Demo3.pdb
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\3_ScriptTokens\obj\Debug\3_ScriptTokens.csprojResolveAssemblyReference.cache

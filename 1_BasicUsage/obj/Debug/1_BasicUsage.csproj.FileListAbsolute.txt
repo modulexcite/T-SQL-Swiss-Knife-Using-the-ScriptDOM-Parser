@@ -1,0 +1,6 @@
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\1_BasicUsage\bin\Debug\T-SQLSwissKnifeScriptDom.exe.config
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\1_BasicUsage\bin\Debug\T-SQLSwissKnifeScriptDom.exe
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\1_BasicUsage\bin\Debug\T-SQLSwissKnifeScriptDom.pdb
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\1_BasicUsage\obj\Debug\1_BasicUsage.csprojResolveAssemblyReference.cache
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\1_BasicUsage\obj\Debug\T-SQLSwissKnifeScriptDom.exe
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\1_BasicUsage\obj\Debug\T-SQLSwissKnifeScriptDom.pdb

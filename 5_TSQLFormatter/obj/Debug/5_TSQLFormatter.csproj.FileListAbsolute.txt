@@ -1,0 +1,9 @@
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\5_TSQLFormatter\obj\Debug\5_TSQLFormatter.csprojResolveAssemblyReference.cache
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\5_TSQLFormatter\obj\Debug\_5_TSQLFormatter.Properties.Resources.resources
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\5_TSQLFormatter\obj\Debug\5_TSQLFormatter.csproj.GenerateResource.Cache
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\5_TSQLFormatter\bin\Debug\5_TSQLFormatter.exe.config
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\5_TSQLFormatter\bin\Debug\5_TSQLFormatter.exe
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\5_TSQLFormatter\bin\Debug\5_TSQLFormatter.pdb
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\5_TSQLFormatter\obj\Debug\5_TSQLFormatter.exe
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\5_TSQLFormatter\obj\Debug\5_TSQLFormatter.pdb
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\5_TSQLFormatter\obj\Debug\T_SQLSwissKnifeScriptDom.Form1.resources

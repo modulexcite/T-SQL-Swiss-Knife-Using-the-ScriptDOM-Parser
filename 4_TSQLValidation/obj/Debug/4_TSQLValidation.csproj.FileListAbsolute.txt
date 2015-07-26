@@ -1,0 +1,9 @@
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\4_TSQLValidation\bin\Debug\4_TSQLValidation.exe.config
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\4_TSQLValidation\obj\Debug\4_TSQLValidation.csprojResolveAssemblyReference.cache
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\4_TSQLValidation\obj\Debug\_4_TSQLValidation.Properties.Resources.resources
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\4_TSQLValidation\obj\Debug\4_TSQLValidation.csproj.GenerateResource.Cache
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\4_TSQLValidation\bin\Debug\4_TSQLValidation.exe
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\4_TSQLValidation\bin\Debug\4_TSQLValidation.pdb
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\4_TSQLValidation\obj\Debug\4_TSQLValidation.exe
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\4_TSQLValidation\obj\Debug\4_TSQLValidation.pdb
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\4_TSQLValidation\obj\Debug\T_SQLSwissKnifeScriptDom.Form1.resources

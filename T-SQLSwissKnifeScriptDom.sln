@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_BasicUsage", "1_BasicUsage\1_BasicUsage.csproj", "{D706199D-6A8C-450F-9342-2E8D80CD3507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_VisitorPattern", "2_VisitorPattern\2_VisitorPattern.csproj", "{DE4D8C19-A7A2-4616-AD84-6D132F9EE6E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{7D04C5FC-0FD8-4634-B7C0-78EC1653F11F}"
+	ProjectSection(SolutionItems) = preProject
+		SQL\CreateProc_HumanResources_uspUpdateEmployeeHireInfo.sql = SQL\CreateProc_HumanResources_uspUpdateEmployeeHireInfo.sql
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_ScriptTokens", "3_ScriptTokens\3_ScriptTokens.csproj", "{F899EC8C-DBF6-40A8-A30E-F2F506502A3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_TSQLValidation", "4_TSQLValidation\4_TSQLValidation.csproj", "{8E3B06DF-1D4D-45BB-BC08-0EDDB4017BDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_TSQLFormatter", "5_TSQLFormatter\5_TSQLFormatter.csproj", "{A0AB613C-F98A-4F5D-B550-46BE4B128B1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D706199D-6A8C-450F-9342-2E8D80CD3507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D706199D-6A8C-450F-9342-2E8D80CD3507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D706199D-6A8C-450F-9342-2E8D80CD3507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D706199D-6A8C-450F-9342-2E8D80CD3507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE4D8C19-A7A2-4616-AD84-6D132F9EE6E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4D8C19-A7A2-4616-AD84-6D132F9EE6E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4D8C19-A7A2-4616-AD84-6D132F9EE6E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4D8C19-A7A2-4616-AD84-6D132F9EE6E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F899EC8C-DBF6-40A8-A30E-F2F506502A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F899EC8C-DBF6-40A8-A30E-F2F506502A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F899EC8C-DBF6-40A8-A30E-F2F506502A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F899EC8C-DBF6-40A8-A30E-F2F506502A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E3B06DF-1D4D-45BB-BC08-0EDDB4017BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3B06DF-1D4D-45BB-BC08-0EDDB4017BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3B06DF-1D4D-45BB-BC08-0EDDB4017BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3B06DF-1D4D-45BB-BC08-0EDDB4017BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0AB613C-F98A-4F5D-B550-46BE4B128B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0AB613C-F98A-4F5D-B550-46BE4B128B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0AB613C-F98A-4F5D-B550-46BE4B128B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0AB613C-F98A-4F5D-B550-46BE4B128B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

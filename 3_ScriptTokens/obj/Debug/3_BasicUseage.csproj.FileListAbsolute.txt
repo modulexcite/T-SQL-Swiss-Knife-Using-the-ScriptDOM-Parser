@@ -1,0 +1,3 @@
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\3_BasicUseage\bin\Debug\Demo3.exe.config
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\3_BasicUseage\obj\Debug\Demo3.exe
+C:\Users\Brendan\Dropbox\VMs\HV-i7-Dev\T-SQLSwissKnifeScriptDom\3_BasicUseage\obj\Debug\Demo3.pdb
